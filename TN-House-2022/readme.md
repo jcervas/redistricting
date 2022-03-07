@@ -56,6 +56,7 @@ To begin, I will provide some background and the context of which this report is
 **_Figure XXXX_ - 2012-2020 TN State House Population Deviations**
 
 ![](Maps/TN House Deviation 2012.png)
+
 _Note: Calculated using 2020 PL 94-171 total population projected into the 2012-2020 state House districts._
 ---
 
@@ -131,7 +132,8 @@ _Figure XXXX_ shows an example of how counting of splits is done. The example sh
 ---
 **_Figure XXXX_ - An Example of How Districts May Split County Lines**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/TN Split Counties.png)
+![](Maps/TN Split Counties.png)
+
 _Note: Districts are unlabeled. Counties are labeled "A", "B", and "C". Though the counties are real, this is just an example of how districts may fit into counties. The data is fictious._
 ---
 
