@@ -199,6 +199,7 @@ Tennesee has a total Black voting age population (BVAP) exceeding 16%. The map u
 **_Figure XXXX_ - 2012-2020 TN State House Majority-Black Voting Age Districts**
 
 ![](Maps/TN House BVAP 2022.png)
+
 _Note: Calculated using 2020 PL 94-171 Black alone voting age population._
 ---
 
