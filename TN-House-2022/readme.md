@@ -55,7 +55,7 @@ To begin, I will provide some background and the context of which this report is
 ---
 **_Figure XXXX_ - 2012-2020 TN State House Population Deviations**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/TN House Deviation 2012.png)
+![](Maps/TN House Deviation 2012.png)
 _Note: Calculated using 2020 PL 94-171 total population projected into the 2012-2020 state House districts._
 ---
 
@@ -196,7 +196,7 @@ Tennesee has a total Black voting age population (BVAP) exceeding 16%. The map u
 ---
 **_Figure XXXX_ - 2012-2020 TN State House Majority-Black Voting Age Districts**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/TN House BVAP 2022.png)
+![](Maps/TN House BVAP 2022.png)
 _Note: Calculated using 2020 PL 94-171 Black alone voting age population._
 ---
 
@@ -298,7 +298,7 @@ An alternative map was proposed by the House Democrats on December 15, 2021. The
 ---
 **_Figure XXXX_ - House Democratic Concept Map**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/TN_House_Dem_Concept.png)
+![](Maps/TN_House_Dem_Concept.png)
 
 ---
 
@@ -311,7 +311,7 @@ This plan has a largest district that contains a population of 73,034 (+4.62%). 
 ---
 **_Figure XXXX_ - Ensemble Plan 3_0_47**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/3_0_478.png)
+![](Maps/3_0_478.png)
 
 ---
 
@@ -323,7 +323,7 @@ The largest district in this plan has 73,034 (+4.62%) and the smallest district 
 ---
 **_Figure XXXX_ - Ensemble Plan 3_1_2400**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/3_1_2400.png)
+![](Maps/3_1_2400.png)
 
 ---
 
@@ -335,7 +335,7 @@ Districts range in population from 66,093 (-5.32%) to 73,034 (+4.62%) and have a
 ---
 **_Figure XXXX_ - Ensemble Plan 3_1_7500**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/3_1_7500.png)
+![](Maps/3_1_7500.png)
 
 ---
 
@@ -347,7 +347,7 @@ This plan has a smallest district of 66,127 (-5.27%) and a largest district of 7
 ---
 **_Figure XXXX_ - Ensemble Plan 3_2_13700**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/3_2_13700.png)
+![](Maps/3_2_13700.png)
 
 ---
 
@@ -358,7 +358,7 @@ This plan has a smallest district population of 66,368 (-4.93%) and a largest po
 ---
 **_Figure XXXX_ - Ensemble Plan 3_4_5500**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/3_4_5500.png)
+![](Maps/3_4_5500.png)
 
 ---
 
@@ -369,7 +369,7 @@ This plan has district populations that range between 66,400 (-4.88%) and 73, 36
 ---
 **_Figure XXXX_ - Ensemble Plan 3_5_10428**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/3_5_10428.png)
+![](Maps/3_5_10428.png)
 
 ---
 
