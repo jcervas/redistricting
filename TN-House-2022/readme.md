@@ -55,7 +55,7 @@ To begin, I will provide some background and the context of which this report is
 ---
 **_Figure XXXX_ - 2012-2020 TN State House Population Deviations**
 
-![](Maps/TN House Deviation 2012.png)
+![](Maps/TN-House-Deviation-2012.png)
 
 _Note: Calculated using 2020 PL 94-171 total population projected into the 2012-2020 state House districts._
 ---
@@ -132,7 +132,7 @@ _Figure XXXX_ shows an example of how counting of splits is done. The example sh
 ---
 **_Figure XXXX_ - An Example of How Districts May Split County Lines**
 
-![](Maps/TN Split Counties.png)
+![](Maps/TN-Split-Counties.png)
 
 _Note: Districts are unlabeled. Counties are labeled "A", "B", and "C". Though the counties are real, this is just an example of how districts may fit into counties. The data is fictious._
 ---
@@ -198,7 +198,7 @@ Tennesee has a total Black voting age population (BVAP) exceeding 16%. The map u
 ---
 **_Figure XXXX_ - 2012-2020 TN State House Majority-Black Voting Age Districts**
 
-![](Maps/TN House BVAP 2022.png)
+![](Maps/TN-House-BVAP-2022.png)
 
 _Note: Calculated using 2020 PL 94-171 Black alone voting age population._
 ---
@@ -238,7 +238,7 @@ I have created over 90,000 plans that split, according to the TN County Split me
 
 | Number of Plans | TN County Splits | Counties Split | County Splits | Polsby-Popper Compactness | Overall Deviation | Mean Deviation |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2022 enacted | 30 | 38 | 74 | 0.233 | 9.9% |  |
+| 2022 enacted | 30 | 38 | 74 | 0.233 | 9.9% | 3.28% |
 | 3,791 | 24 | 29 | 68 | 0.247 | 9.9% | 2.66% |
 | 86,215 | 23 | 28 | 67 | 0.254 | 9.9% | 2.69% |
 
@@ -289,7 +289,7 @@ Thirteen districts are kept completely contained in Shelby County. The county is
 ---
 **_Figure XXXX_ - 2022 Enacted Plan**
 
-![](/Users/user/Google Drive/Projects/Redistricting/2022/TN/Maps/TN_2022_House_Enacted.png)
+![](Maps/TN_2022_House_Enacted.png)
 
 ---
 
