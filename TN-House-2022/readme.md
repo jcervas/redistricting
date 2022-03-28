@@ -15,22 +15,49 @@ output:
 bibliography: /Users/user/Downloads/library.bib
 link-citations: yes
 ---
-Failing to split Shelby County creates population pressures throughout the rest of the state. The effect of not splitting Shelby County is to favor non-urban areas.
+
+## Introduction
 
 Counsel has asked me to prepare a report after creating demonstrative plans adhering to the following criteria:
 
 1. Shelby County should have exactly 13 or 14 house districts.  No portion of Shelby County should be combined with any adjacent county in creating a district.
 
-2. All 13 majority-minority districts created in the Redistricting Plan enacted by the Tennessee legislature should be preserved in your maps.
+2. 13 majority-minority districts, as created in the redistricting plan enacted by the Tennessee legislature, should be preserved in the maps.
 
 3. Davidson, Hamilton, and Knox Counties, like Shelby County, should not have any portions of the county combined with any adjacent counties in creating a district.
 
 In addition to the four counties listed above, I also restricted Rutherford County to have 5 complete districts without combining any district to an adjacent county.
 
-Plaintiffs ask that I create these maps with a goal of maintaining a maximum overall population deviation of 9.90% or less. A second goal is to creates as few county-dividing districts as possible. 
+Plaintiffs ask that I create these maps with a goal of maintaining a maximum overall population deviation of 9.9% or less. A second goal is to creates as few county-dividing districts as possible. 
 
-Plaintiffs asked that I create demonstrative maps to be appended to this expert report as examples of maps that meet the three enumerated goals stated above but that also have fewer than 30 county-dividing districts and lower than a 9.90% total population deviation.
+Plaintiffs asked that I create demonstrative maps to be appended to this expert report as examples of maps that meet the three enumerated goals stated above but that also have fewer than 30 county-dividing districts and lower than a 9.9% total population deviation.
 
+
+## Qualifications and Publications
+
+My name is Jonathan Cervas and I am a resident of Pittsburgh, Pennsylvania. I am a post-doctoral fellow at Carnegie Mellon University. I teach courses for the Institute of Politics and Strategy, the undergraduate and master’s degree granting unit of political science for the university; one class is graduate seminar on American politics and one on representation and voting rights. I am also an uncompensated Research Associate of the Electoral Innovation Lab at Princeton University, which is home to the non-partisan Princeton Gerrymandering Project. I received my undergraduate degree at the University of Nevada Las Vegas and my graduate degrees at the University of California Irvine. My 2020 doctoral dissertation is titled “A Quantitative Assessment of the Electoral College, 1790-2020”. As my curriculum vitae, attached as Appendix A, shows, I’ve published eleven peer-reviewed scholarly articles on topics related to political institutions, elections, redistricting, and voting rules. My work has been published in journals which specialize in political science, geography, economics, and law. These include the *Proceedings of the National Academy of Arts and Sciences*, *Social Science Quarterly*, *Political Geography*, *Public Choice*, *Election Law Journal*, *Stanford Journal of Civil Rights & Civil Liberties*, *Presidential Studies Quarterly*, and *PS: Political Science and Politics*. I have been invited to give talks to Princeton University, University of Houston, and the National Conference of State Legislatures. As part of my service commitment to the discipline of political science, I have served as referee for *American Journal of Political Science*, *Political Geography*, *Election Law Journal*, *Public Choice*, and *Political Research Quarterly*.
+
+I have been involved in drawing maps for three federal courts in voting rights and redistricting cases. Three cases involved questions related to the Voting Rights Act and the U.S. Constitution. In *Navajo Nation v. San Juan County, UT*, D.C. No. 2:12-CV-00039-RJS (2018), the district court ruled that the election district for school board and county commission violated the Fourteenth Amendment to the United States Constitution. After the court rejected the county’s remedial map, the court retained Prof. Bernard Grofman as special master. I was employed as assistant to the special master and helped to prepare remedial maps. The court selected the illustrative maps I helped prepare for immediate use in the next election. These maps were upheld by the Tenth Circuit Court of Appeals *Navajo Nation v. San Juan County*, No.18-4005 (10th Cir. 2019). In *Bethune-Hill v. Virginia State Bd. of Elections*, 141 F. Supp. 3d 505 (ED Va. 2015) the federal court ruled that twelve of Virginia’s 100 House of Delegates districts were unconstitutional gerrymanders under precedent set in *Shaw v. Reno* 509 US 630 (1993). Eventually reaching th United States Supreme Court (SCOTUS) the first time, the court remanded *Bethune-Hill v. Virginia State Board of Elections*, 580 U.S. ___ (2017). The district court then ruled eleven of the twelve districts were unconstitutional racial gerrymanders and ordered them redrawn *Bethune-Hill v. Virginia State Bd. of Elections*, 326 F. Supp. 3d 128 (2018). The district court retained Prof. Grofman as special master. I worked with Prof. Grofman as assistant to the special master. Together we created ten map modules; three in Norfolk, two in the peninsula area, three in Petersburg, and two in Richmond. The court selected module combinations that adjusted the boundaries of twenty-five districts. The case was heard for a second time on appeal to SCOTUS, who remanded on standing Virginia House of Delegates v. Bethune-Hill, 587 U.S. ___ (2019). These districts were used in the 2019 election, and because of census delays, again used in 2021. In *Wright v. Sumter County Board of Elections and Registration* (1:14-CV-42 (WLS) U.S. District Court, Middle District of Georgia (2020)), the district court ruled that Sumter County’s voting districts diluted the voting power of Blacks in violation of section 2 of the Voting Rights Act. The court retained Prof. Grofman in his capacity as special master. I again served as assistant to the special master. Working with Prof. Grofman I helped craft four seven-district illustrative plans and one five-district illustrative plan. The court choose one of the plans I helped to prepared. Defendants appealed to the eleventh circuit court, who reviewed the entire record and found the district court did not err in concluding a section 2 violation and that the special master “expressly found an easily achievable remedy available”. *Wright v. Sumter County Board of Elections and Registration*, No. 15-13628 at 45 (11th Cir. 2020). In July of 2021, I entered into contract with the Pennsyvlania Legislative Reapportionment Commission to provide consulting work relating to the creation of the PA state House of Representatives and PA Senate districts to be used during elections held between 2022 and 2030. This work involved numerous aspects of the reapportionment process, not limited to map drawing. The maps drafted by the commission passed with a bi-partisan vote on February 4, 2022. My work with the commission is ongoing.
+
+My opinions in this report are based on the knowledge I have accumulated through my education, training, and experience. This training has included a detailed review of the relevant academic literature. My opinions follow additionally from statistical analysis of the following data:
+
+
+## Data
+
+In order to evaluate the state House plan, I examined:
+
+1) Data delivered by the United States Census on August 12, 2021. This data is referred to as 2020 Census State Redistricting Data (Public Law 94-171), sometimes PL.94-171 and colloquially referred to as PL data. It can be found at [https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/](https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/).
+- This data includes the total population base used to create districts of approximately equal people, along with several demographic population totals.
+2) GIS (Geographic Information Systems) Files
+- Official census GIS product from the "Tigerline" program. These files contain the polygons of the nested hierarchical political and geographic subdivisions. I downloaded the 2020 vintage from [https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html). I post-processed these files to merge with PL population data.
+- Tennesee state House district lines, obtained on February 27, 2022 from [https://www.capitol.tn.gov/house/committees/Redistricting.aspx](https://www.capitol.tn.gov/house/committees/Redistricting.aspx). I compared these shapefiles to those found on Dave's Redistricting App (DRA) and find them to match.
+- An alternative map proposed by the Democratic caucus, which can be found [https://davesredistricting.org/maps#viewmap::706539fb-f439-4d8c-9df8-7a48c6473a30](https://davesredistricting.org/maps#viewmap::706539fb-f439-4d8c-9df8-7a48c6473a30)
+
+
+
+
+
+## Urban Counties
 
 The five counties listed above have districts completely "embedded" in them. The rest of the state can be drawn independently of these counties. Below is a summary of the 5 counties which will be treated as they were enacted in the 2022 House map:
 
@@ -81,8 +108,13 @@ plans <- c("apple_seed", "orange_seed")
 exc.cnty <- TN_pop.counties$GEOCODE[TN_pop.counties$NAME %in% freeze.dist]
 TN.vtd <- rgdal::readOGR("/Users/user/Google Drive/GitHub/Data Files/Census/TN2020.pl/GIS/vtd/TN_vtd20.shp")
 	TN.vtd <- TN.vtd[!paste0("47", TN.vtd@data$COUNT) %in% exc.cnty, ]
-rgdal::writeOGR(TN.vtd, "/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/", layer= "short-TN-vtd", driver="ESRI Shapefile", overwrite_layer=T)
-
+# rgdal::writeOGR(TN.vtd, "/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/", layer= "short-TN-vtd", driver="ESRI Shapefile", overwrite_layer=T)
+png(paste0("/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TN-short-vtd.png"), 
+	height = 2000, width = 6000, 
+	units = "px", pointsize = 24)
+	sp::plot(TN.vtd, col="#c41230", density=10, lwd=5)
+	sp::plot(TN_geo.counties.tmp, border="gray20", lwd=1, add=T)
+dev.off()
 
 apple_seed <- read.csv("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Apple Seed/short - apple-seed-precinct-assignments.csv", colClasses=c("character"))
 orange_seed <- read.csv("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Orange Seed/short - orange-seed - precinct-assignments.csv", colClasses=c("character"))
@@ -107,7 +139,13 @@ plans.tmp <- orange_seed
 |---|---|---|---|
 | *Total* | *2,832,292* | *40.47* | *40* |
 | *90 other counties* | *4,078,548* | *58.43* | *58* |
-_Note: 2020 Census total population. The ideal size of one House district is 69,806. These five counties have a total population of 2,832,292. Taken together, they ideally contain 40.57 seats out of 99 (40.1%) total seats. In the enacted plan, they only have 40 total districts. Tennessee's total state population is 6,910,840.
+_Note: 2020 Census total population. The ideal size of one House district is 69,806. These five counties have a total population of 2,832,292. Taken together, they ideally contain 40.57 seats out of 99 (40.1%) total seats. In the enacted plan, they only have 40 total districts. Tennessee's total state population is 6,910,840._
+
+
+### Figure 1 - Map of Tennessee precincts that will be evaluted {#fig-vtd}
+![](Maps/TN-short-vtd.png)
+*Note: Only the non-urban counties will undergo changes to districts from what was enacted in the 2022 House map.*
+
 
 
 ### Counties with populations sufficient for one or more whole districts
@@ -122,8 +160,7 @@ The following provides a summary of which counties contain populations greater t
 
 4) Sumner, Sullivan, and Wilson counties all may have two full districts and extend a third into another county. 
 
-5) Williamson and Montgomery[^a] counties all have three full House districts and a part of a fourth. 
-[^a]: Montgomery County is sealed in the 2022 enacted House map, containing three complete districts, all three of which are the three most over-populated in the state. Residents of Montgomery County are significantly underrepresented in the General Assembly. If this county were to have part of a fourth district, as might be required by law, that would cause at least one additional "TN County Splits" in the plan, increasing it to 31, which is greater than the max allowed in the House Redistricting Guidelines.
+5) Williamson and Montgomery[^1] counties all have three full House districts and a part of a fourth. 
 
 6) Hamilton and Rutherford counties both can fully contain 5 districts each. 
 
@@ -133,11 +170,11 @@ The following provides a summary of which counties contain populations greater t
 
 9) Shelby can support either 13 or 14 full districts.
 
-* Unicoi County is only adjacent to Carter if Greene and Washington Counties are "sealed". It can only form a district with part Carter unless Washington County is split (but then Carter County does not need be split).
+* Unicoi County is only adjacent to Carter County if Greene and Washington Counties are "sealed". It can only form a district with part Carter unless Washington County is split (but then Carter County does not need be split).
 
 
 
-Any county that is large enough to contain a least one district wholly need not be split. That does not imply it *will not* be split, however. But, the total number of splits is necessarily less than the total number of districts (99) by the fact districts have a smaller number of people than that of several whole counties. Of course, some counties will be split in order to achieve population equality. We can calculate the upper bound on the number of counties that need be split[^1].
+Any county that is large enough to contain a least one district wholly need not be split. That does not imply it *will not* be split, however. But, the total number of splits is necessarily less than the total number of districts (99) by the fact districts have a smaller number of people than that of several whole counties. Of course, some counties will be split in order to achieve population equality. We can calculate the upper bound on the number of counties that need be split[^2].
 
 Let us assume that any county that has a population multiple that is an integer of a district is not split. For Shelby, that is either 13 or 14. Forty-seven such districts can be drawn in Tennessee across 9 counties (Shelby, Davidson, Knox, Hamilton, Rutherford, Blount, Washington, Robertson, Greene). So far, that implies that 47 out of the total 99 districts can be drawn to not cut a single county line (This does not include Montgomery County; if included, that implies 50 out of 99 can be drawn without a single "TN County Split") 
 
@@ -147,7 +184,7 @@ The minimum number of counties that need to be split cannot be found analyticall
 
 Measuring plans using these three different notions allows for comparisons of any plan equally. *[Table 2](#tab-2)* does this for the 2012-2020 enacted map, the 2022-2030 enacted map, and the House Democratic Concept map. The 2022 enacted map scores the worst across all three measures.
 
-In the plan that was enacted in 2012 and used in subsequent elections until 2020, 36 total counties are split into more than one district. These 36 counties were split 70 times in total. 28 counties have districts that have their boundary split. In the 2022 enacted House plan, 38 of the 95 counties are divided into at least two districts, for a total of 74 times, and 30 counties have districts that span the border. By comparison, the conceptual map proposed by the House Democrats cuts only 29 of the 95 counties, and does so by dividing counties only 67 times[^2]. Note that 18 counties exceed the district population and therefore *must* be divided. More restrictive population deviation standards would mean a trade-off that would induce an increasing the number of county splits. The overall deviation and average absolute deviation are shown for each of the plans in *[Table 2](#tab-2)*.
+In the plan that was enacted in 2012 and used in subsequent elections until 2020, 36 total counties are split into more than one district. These 36 counties were split 70 times in total. 28 counties have districts that have their boundary split. In the 2022 enacted House plan, 38 of the 95 counties are divided into at least two districts, for a total of 74 times, and 30 counties have districts that span the border. By comparison, the conceptual map proposed by the House Democrats cuts only 29 of the 95 counties, and does so by dividing counties only 67 times[^3]. Note that 18 counties exceed the district population and therefore *must* be divided. More restrictive population deviation standards would mean a trade-off that would induce an increasing the number of county splits. The overall deviation and average absolute deviation are shown for each of the plans in *[Table 2](#tab-2)*.
 
 For the map enacted to be used after the 2022 elections, 2 additional counties were cut, and a total of 4 more cuts, and two additional counties have districts that span their borders compared to the 2012 enacted map. The Democratic House conceptual map splits 9 fewer counties, and does so 7 fewer times. I have 7 fewer counties where a district spans it border to complete a district. 
 
@@ -159,7 +196,7 @@ The plan that was enacted by the General Assembly (2022 enacted plan) for use be
 Thirteen districts are kept completely contained in Shelby County. The county is split 12 times into 13 pieces, but the county border itself is not split. Davidson County contains 10 districts fully inside the county boundaries, but the county line itself is unsplit. Knox County contains 7 districts fully within the county boundary, and the county border itself is not split. Hamilton contains exactly 5 districts and the county boundary is not cut. Rutherford County wholly contains 5 districts, with the county border not crossed. It appears that the drafters of the map intended to "seal in" these more urban counties in a way to avoid the splitting of their borders. One consequence of this choice is that there is a shortage in population of over 40,000 people that need to be absorbed by the remaining 59 districts not included in these 40, which may actually *increase* to total number of counties that need to be split. Moreover, restricting Shelby County to just 13 districts, instead of the potential 14 districts, almost certainly leads to one additional split at some place in the statewide map; this is because there will only be 85 instead of 86 remaining districts.
 
 
-### Figure 4 - 2022 Enacted Plan {#fig-enacted}
+### Figure 1 - 2022 Enacted Plan {#fig-enacted}
 ![](Maps/TN_2022_House_Enacted.png)
 
 
@@ -168,7 +205,7 @@ Thirteen districts are kept completely contained in Shelby County. The county is
 An alternative map was proposed by the House Democrats on December 15, 2021. The map has an overall deviation of 9.72%. Concept District 7 has the smallest population of 66,495 (-4.74%). Concept District 27 has the largest population of 73,280 (+4.98%). Thirteen districts are wholly contained in Shelby County, and one district (94) also contains all of Fayette County. This means that Shelby County is split on the county border, but the average deviation of districts in Shelby County are lower. Like the 2022 enacted map, the alternative proposed by the House Democrats creates 10 districts in Davidson County, with no county split. Likewise, Know County contains 7 districts with no county split, Hamilton contains 5 districts with no county split, and Rutherford contains 5 counties with no split.
 
 
-### Figure 5 - House Democratic Concept Map {#fig-housedem}
+### Figure 2 - House Democratic Concept Map {#fig-housedem}
 ![](Maps/TN_House_Dem_Concept.png)
 *Note, for the plans generated by the ensemble, the district numbers do not align closely with plans drafted by hand.*
 
@@ -182,44 +219,22 @@ An alternative map was proposed by the House Democrats on December 15, 2021. The
 | 2012 Enacted | 36 | 70 | 28 | 9.7% | 3.4% |
 | 2022 Enacted | 38 | 74 | 30 | 9.9% | 3.3% |
 | House Democratic Concept | 29 | 67 | 23 | 9.7% | 2.2% |
-_Note: "Counties Split" is the total number of counties that have at least two districts in it. "County Splits" is the total number of pieces in counties. "TN County Splits" is the number of counties that the county line needed to be crossed to form a complete district with an adjacent county.
+_Note: "Counties Split" is the total number of counties that have at least two districts in it. "County Splits" is the total number of pieces in counties. "TN County Splits" is the number of counties that the county line needed to be crossed to form a complete district with an adjacent county._
 
 
-| PLAN | Counties Split | County Splits | TN County Splits | Overall Deviation | Mean Deviation |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Apple Seed | 33 | 65 | 26 |
-| Orange Seed | 41 | 74 | 34 |
+
 
 ## Seed Plans
 
 Using the perimeters described above, I created two seed plans in Dave's Redistricting App. The plans are generated using only the 90 non-urban counties (excluding Shelby, Davidson, Knox, Hamilton, and Rutherford counties). In the first plan, I drew 59 districts. These plans assume that Shelby County contains 13 districts. They will be given the code word "Apple" as I refer to them throughout this report. In the second plan, I drew 58 districts. In this plan, Shelby County has 14 districts. Plans of this nature will be referred to as "Orange". These plans both adhere to what I call the "n-1" rule, meaning no county is split unless necessary for population deviation. I used no racial information, nor did I use any partisan information. Though no effort like this can guarantee compliance with the Voting Rights Act, the court record indicates that 9 VRA compliant districts are found in Shelby County, 2 in Davidson County, and 1 in Hamilton County, which is preserved. One additional VRA district spans Hardeman, Madison, and Haywood counties; For this district, I ensure that it contains a Black voting age population of at least 52%, which can be achieved without splitting either Hardeman or Haywood counties (which have a combined population of 43,326).
 
 
+### Table 3 - Seed Plans Descriptive Data {#tab-3}
 
-## Ensembles
-
-Computer assistance in drawing redistricting plans has greatly enhanced the efficiency of finding alterative redistricting plans. While I have been able to generate plans that have significantly fewer county splits by hand, I can use a computer algorithm to further investigate the question about whether the 2022 enacted plan, consistent with the TN constitution that prohibits the division of counties except for the purpose of creating legal plans, limits the number of counties which have districts that span their borders. 
-
-- I employ a Markov chain Monte Carlo algorithm that generates random plans. 
-
-- I instructed the computer to perfer plans that reduce the number of county splits. 
-
-- I ensure that each of the generated plans maintains the overall deviation of under 9.9%. 
-
-- Each plan is built from aggregating contiguous precincts, and the resulting maps are contiguous. 
-
-- The plans I generated are of similar compactness to the enacted plan. 
-
-- I constrained the algorithm to ensure that each plan had a minimum of 13 Black-majority districts. 
-
-- I used no partisan data in forming plans.
-
-My usage of this algorithm is not for the purpose of making statistical claims nor do I generate a representative sample of all plans. Rather, my use of the algorithm was to generate legally compliant alternatives to the enacted map that are more faithful to the splitting provisions found in the Tennessee constitution.
-
-
-The plans generated by the ensemble are created using a base precinct geography file. The average population of a precinct is 3,517 persons, ranging from 0 to 18,830. The median precinct has 2,857 persons. The several very large precincts such as the largest limit the potential for some plans to be generated, undesirably biasing the creating of plans with more splits. This conceivably indicates that even fewer "TN County Splits" could be generated if aggregating geographies with smaller amounts of people, such as census blocks (mean=39) or block groups (mean=1,515). Moreover, while the average deviation is slightly higher in the ensemble-created plans, had I used block-groups to generate the plans, they would achieve far lower average deviations, since block-groups are significantly smaller and therefore can lead to more precise allocation between districts. Therefore, plans created by the algorithm are conservative demonstrations of possible plans with fewer county splits.
-
-*The plans found in the ensemble have very low numbers of county splits, but fewer splits might be possible.*
+| PLAN | Counties Split | County Splits | TN County Splits | Overall Deviation | Mean Deviation |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Apple Seed | 33 | 65 | 26 | 9.7% | 2.6% |
+| Orange Seed | 41 | 74 | 34 | 9.6% | 2.5% |
 
 
 ## "Apple" Plans
@@ -232,8 +247,8 @@ I have created a seed "Apple" plan that creates 59 districts in the 90 non-urban
 
 
 
-### Figure 1 - Apple seed plan {#fig-1}
-![](Maps/apple_seed.png)
+### Figure 3 - Apple seed plan {#fig-1}
+![](Maps/Apple/Apple_seed.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ https://davesredistricting.org/join/664172f4-dab0-4114-aca3-111879cd2e17
 
 
@@ -244,28 +259,203 @@ _Note: This plan can be viewed on Dave's Redistricting app:_ https://davesredist
 
 ### Orange Seed
 
-
-
-### Figure 2 - Orange seed plan {#fig-2}
-![](Maps/orange_seed.png)
+### Figure 4 - Orange seed plan {#fig-2}
+![](Maps/Orange/orange_seed.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ https://davesredistricting.org/join/ce99a5c5-8490-4aac-a571-ec20ef00b5eb
 
 
-Conjecture: The choice of not splitting Shelby County has the consequence of increasing the number of county splits in the state
 
+
+
+
+
+
+```{r, echo=F, message=FALSE, warning=FALSE, include=FALSE, eval=FALSE}
+	urban.counties.districts <- read.csv("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Urban Counties Enacted/TN 2022 House Enacted - Urban counties-district-statistics.csv")
+		colnames(urban.counties.districts) <- c("Group.1", "x")
+
+
+	#Orange Plans
+plans <- c(
+	"TN_Apple_Test_0_9384",
+	"TN_Apple_Test_5_8716",
+	"TN_Apple_Test_3_288",
+	"TN_Apple_Test_4_32",
+	"TN_Apple_Test_2_48")
+	
+	for (i in 1:length(plans)) {
+	plans.tmp <-read.csv(paste0("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Apple Ensemble/TN Apple 1/", plans[i], ".csv"), colClasses=c("character"))
+
+		colnames(plans.tmp)[1] <- "GEOID"
+		length(unique(plans.tmp$District))
+	vtd.tmp <- TN_geo.vtd.tmp
+	vtd.tmp@data <- dplyr::full_join(vtd.tmp@data, plans.tmp, by= c("GEOID"="GEOID"))
+	vtd.tmp@data <- dplyr::left_join(vtd.tmp@data, cols(vtd.tmp@data$District), by="District")
+		plan.districts.tmp <- aggregate(vtd.tmp@data$TOTAL, by=list(vtd.tmp@data$District), FUN=sum)
+		plan.districts <- rbind.data.frame(plan.districts.tmp, urban.counties.districts[,1:2])
+		plan.dev <- (plan.districts[,2]-ideal.house)/ideal.house
+			mean(abs(plan.dev))
+png(paste0("/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/", plans[i], ".png"), 
+	height = 2000, width = 6000, 
+	units = "px", pointsize = 24)
+	sp::plot(TN_geo.counties.tmp, col="#c41230", density=10, lwd=5)
+	sp::plot(TN_enacted_urban, col=TN_enacted_urban@data$color, border = TN_enacted_urban@data$color, lty=1, lwd = 0.5, add=T)
+	sp::plot(vtd.tmp, col = vtd.tmp@data$color, border = vtd.tmp@data$color, lty=1, lwd = 0.5, add=T)
+	# plot(district_shp, border="gray50", lwd=1, add=T)
+	sp::plot(TN_geo.counties.tmp, border="gray20", lwd=1, add=T)
+dev.off()
+}
+```
+```{r, echo=F, message=FALSE, warning=FALSE, include=FALSE, eval=FALSE}
+	urban.counties.districts <- read.csv("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Urban Counties Enacted/TN 2022 House Enacted - Urban counties-district-statistics.csv")
+		colnames(urban.counties.districts) <- c("Group.1", "x")
+
+
+	#Orange Plans
+plans <- c(
+	"TN_Orange_Test_1_9383",
+	"TN_Orange_Test_0_9242",
+	"TN_Orange_Test_2_9501",
+	"TN_Orange_Test_4_8580",
+	"TN_Orange_Test_3_9865")
+	
+	for (i in 1:length(plans)) {
+	plans.tmp <-read.csv(paste0("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Orange Ensemble/TN Orange 1/", plans[i], ".csv"), colClasses=c("character"))
+
+		colnames(plans.tmp)[1] <- "GEOID"
+		length(unique(plans.tmp$District))
+	vtd.tmp <- TN_geo.vtd.tmp
+	vtd.tmp@data <- dplyr::full_join(vtd.tmp@data, plans.tmp, by= c("GEOID"="GEOID"))
+	vtd.tmp@data <- dplyr::left_join(vtd.tmp@data, cols(vtd.tmp@data$District), by="District")
+		plan.districts.tmp <- aggregate(vtd.tmp@data$TOTAL, by=list(vtd.tmp@data$District), FUN=sum)
+		plan.districts <- rbind.data.frame(plan.districts.tmp, urban.counties.districts[,1:2])
+		plan.dev <- (plan.districts[,2]-ideal.house)/ideal.house
+			mean(abs(plan.dev))
+png(paste0("/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/", plans[i], ".png"), 
+	height = 2000, width = 6000, 
+	units = "px", pointsize = 24)
+	sp::plot(TN_geo.counties.tmp, col="#c41230", density=10, lwd=5)
+	sp::plot(TN_enacted_urban, col=TN_enacted_urban@data$color, border = TN_enacted_urban@data$color, lty=1, lwd = 0.5, add=T)
+	sp::plot(vtd.tmp, col = vtd.tmp@data$color, border = vtd.tmp@data$color, lty=1, lwd = 0.5, add=T)
+	# plot(district_shp, border="gray50", lwd=1, add=T)
+	sp::plot(TN_geo.counties.tmp, border="gray20", lwd=1, add=T)
+dev.off()
+}
+```
+
+
+
+
+
+
+## Ensembles
+
+Computer assistance in drawing redistricting plans has greatly enhanced the efficiency of finding alterative redistricting plans. While I have been able to generate a plan that has significantly fewer county splits by hand, I can use a computer algorithm to further investigate the question about whether the 2022 enacted plan, consistent with the TN constitution that prohibits the division of counties except for the purpose of creating legal plans, limits the number of counties which have districts that span their borders. 
+
+- I employ a Markov chain Monte Carlo algorithm that generates random plans. 
+
+- I instructed the computer to perfer plans that reduce the number of county splits. 
+
+- I ensure that each of the generated plans maintains the overall deviation of under 9.9%. 
+
+- Each plan is built from aggregating contiguous precincts, and the resulting maps are contiguous. 
+
+- The plans I generated are of similar compactness to the enacted plan. 
+
+- I constrained the algorithm to ensure that each plan had a minimum of 1 Black-majority district. There are 12 additional districts within the 5 urban counties, for a total of 13. _Note: All Apple plans demostrated here have a Black-majority VAP district of 51.17%. Orange plans all have a Black-majority VAP district above 51.35%._
+
+- I used no partisan data in forming plans.
+
+My usage of this algorithm is not for the purpose of making statistical claims nor do I generate a representative sample of all plans. Rather, my use of the algorithm was to generate legally compliant alternatives to the enacted map that are more faithful to the splitting provisions found in the Tennessee constitution.
+
+
+The plans generated by the ensemble are created using a base precinct geography file. The average population of a precinct is 3,517 persons, ranging from 0 to 18,830. The median precinct has 2,857 persons. The several very large precincts such as the largest limit the potential for some plans to be generated, undesirably biasing the creating of plans with more splits. This conceivably indicates that even fewer "TN County Splits" could be generated if aggregating geographies with smaller amounts of people, such as census blocks (mean=39) or block groups (mean=1,515). Moreover, while the average deviation is slightly higher in the ensemble-created plans, had I used block-groups to generate the plans, they would achieve far lower average deviations, since block-groups are significantly smaller and therefore can lead to more precise allocation between districts. Therefore, plans created by the algorithm are conservative demonstrations of possible plans with fewer county splits.
+
+*The plans found in the ensemble have very low numbers of county splits, but fewer splits might be possible.*
+
+
+### TN_Apple_Test_1_9383 {#fig-0_9384}
+![](Maps/Apple/TN_Apple_Test_0_9384.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/6f9a71b4-efd5-4a9e-909c-23f953ed4915"
+
+### TN_Apple_Test_1_9383 {#fig-5_8716}
+![](Maps/Apple/TN_Apple_Test_5_8716.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/e0cfac06-160f-4054-adea-997292b7bdde"
+
+### TN_Apple_Test_1_9383 {#fig-3_0288}
+![](Maps/Apple/TN_Apple_Test_3_288.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/dbc7dc34-293f-46a1-884e-c591e6f4b0f5"
+
+### TN_Apple_Test_1_9383 {#fig-4_0032}
+![](Maps/Apple/TN_Apple_Test_4_32.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/933667cc-6cc7-42a4-80d6-89cd8ef9fead"
+
+### TN_Apple_Test_1_9383 {#fig-2_0048}
+![](Maps/Apple/TN_Apple_Test_2_48.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/9188cb2e-9ccc-4fbd-891f-66363b071ad7"
+
+
+
+
+
+### Table 4 - Ensemble-Generated Plans Descriptive Data {#tab-4}
 
 | PLAN | Counties Split | County Splits | TN County Splits | Overall Deviation | Mean Deviation |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Apple |  | | | | |
-| 19384 | 36 | 
-| Orange | 36 | 50 | 28 | | |
+| *Apple* |  | | | | |
+| 0_9384 | 33 | 71 | 26 | 9.9% | 2.4% |
+| 5_8716 | 33 | 71 | 26 | 9.8% | 2.4% |
+| 3_0288 | 33 | 71 | 26 | 9.7% | 2.4% |
+| 4_0032 | 33 | 71 | 26 | 9.8% | 2.4% |
+| 2_0048 | 33 | 71 | 26 | 9.6% | 2.5% |
+|  |  |  |  |  |  |
+| *Orange* |  |  |  |  |  |
+| 1_9383 | 36 | 74 | 28 | 9.9% | 2.5% |
+| 0_9242 | 36 | 74 | 28 | 9.9% | 2.5% |
+| 2_9501 | 36 | 74 | 28 | 9.9% | 2.6% |
+| 4_8580 | 36 | 74 | 28 | 9.9% | 2.6% |
+| 3_9865 | 36 | 74 | 28 | 9.9% | 2.6% |
 
-_Note: Each simulated plan has 5 Counties split added, along with 36 County Splits. This adjusts for the splits in the 5 urban counties._
+_Note: Each simulated plan has 5 Counties split added since there are five urban counties not simulated. For Apple plans 36 County Splits are added, and for Orange plans, 37 County Splits are added. TN County Splits are the same. Overall and Mean deviations are reported for the simulated districts only._
 
 
-[^1]: Sealing in a county could have a negative effect on the number of split counties. For instance, imagine a county is sealed in but in doing so a total of 20,000 extra people are placed in districts in that county. If an adjacent county has a population that is the ideal minus 20,000, it will now have to split an adjacent county to get the population it could have otherwise had from the first county. Like the butterfly effect, it could ripple through the plan. Additionally, if sealing in a county prohibits a more efficient split for another county, it could have the effect of increasing the total county splits in a plan. Moreover, as with Unicoi, the effect of sealing Washington County is that is _guaranteed_ that Carter County is split, even though its population is small enough to not be split.
+### TN_Orange_Test_1_9383 {#fig-1_9383}
+![](Maps/Orange/TN_Orange_Test_1_9383.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/293c861c-7d95-45bb-a286-e6f273c84a80"
 
-[^2]: Plan comparison documents found on the General Assembly website (https://www.capitol.tn.gov/Archives/House/112GA/redistricting/Documents/additional%20december%20evaluations.pdf) list county splits as 30 for the 2022 enacted plan, and 23 for the House Democratic concept map. I do not know how these measures are calculated, nor are they reported in either Maptitude for Redistricting (to which I have a license) or Dave's Redistricting App. One potential explanation for this measure of splitting is the number of districts that cross into multiple counties. This is a non-standard way of defining county splits and if applied as a legal standard might lead to a situation where larger counties are needlessly penalized since there is more discretion as to whether it needs to be split. (see discussion above about Shelby County)
+### TN_Orange_Test_0_9242 {#fig-0_9242}
+![](Maps/Orange/TN_Orange_Test_0_9242.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/98020603-aaf6-462a-abcb-20bb5256c13b"
+
+### TN_Orange_Test_2_9501 {#fig-2_9501}
+![](Maps/Orange/TN_Orange_Test_2_9501.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/5bed1874-8eae-4a80-83ac-3a74a9b70e99"
+
+### TN_Orange_Test_4_8580 {#fig-4_8580}
+![](Maps/Orange/TN_Orange_Test_4_8580.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/27015482-1a29-47ff-be98-53513879bbfa"
+
+### TN_Orange_Test_3_9865 {#fig-3_9865}
+![](Maps/Orange/TN_Orange_Test_3_9865.png)
+_Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/c6443d06-693e-4f0f-a0a3-889e33291f33"
+
+## Conclusion
+
+Given my experience and expertise in redistricting, it is my conclusion that the number of splits necessary in a Tenneesee House plan after the 2020 census need not exceed 26. This assumes that Shelby County, Davidson County, Knox County, Hamilton County, and Rutherford County at not split except for the internal splits required for equal population. If Shelby County contains 13 districts, I have demonstrated that only 26 counties need to be split. If Shelby County contains 14 districts, I have demonstrated that only 28 counties need to be split. It is possible that even fewer counties need to be split, but given the time constraints of this report, I have not found a plan that does better. Still, in either the "Apple" or the "Orange" configuration, I have demostrated that the 2022 enacted House map does not minimize the number of counties split.  
+
+Conjecture: Failing to split Shelby County creates population pressures throughout the rest of the state. The effect of not splitting Shelby County is to favor non-urban areas. The choice of not splitting Shelby County has the consequence of increasing the number of county splits in the state. The Democratic House Concept Maps demonstrates that as few as 23 counties need to be split, if Shelby County is split once. Splitting Shelby County that way additionally leads to a lower average deviation between districts, since there is a residual population of either 22,000 or 47,500 if Shelby County is not split, _necessitating_ districts to deviate from ideal.
+
+[^1]: Montgomery County is sealed in the 2022 enacted House map, containing three complete districts, all three of which are the three most over-populated in the state. Residents of Montgomery County are significantly underrepresented in the General Assembly. If this county were to have part of a fourth district, as might be required by law, that would cause at least one additional "TN County Splits" in the plan, increasing it to 31, which is greater than the max allowed in the House Redistricting Guidelines.
+
+[^2]: Sealing in a county could have a negative effect on the number of split counties. For instance, imagine a county is sealed in but in doing so a total of 20,000 extra people are placed in districts in that county. If an adjacent county has a population that is the ideal minus 20,000, it will now have to split an adjacent county to get the population it could have otherwise had from the first county. Like the butterfly effect, it could ripple through the plan. Additionally, if sealing in a county prohibits a more efficient split for another county, it could have the effect of increasing the total county splits in a plan. Moreover, as with Unicoi, the effect of sealing Washington County is that is _guaranteed_ that Carter County is split, even though its population is small enough to not be split.
+
+[^3]: Plan comparison documents found on the General Assembly website (https://www.capitol.tn.gov/Archives/House/112GA/redistricting/Documents/additional%20december%20evaluations.pdf) list county splits as 30 for the 2022 enacted plan, and 23 for the House Democratic concept map. I do not know how these measures are calculated, nor are they reported in either Maptitude for Redistricting (to which I have a license) or Dave's Redistricting App. One potential explanation for this measure of splitting is the number of districts that cross into multiple counties. This is a non-standard way of defining county splits and if applied as a legal standard might lead to a situation where larger counties are needlessly penalized since there is more discretion as to whether it needs to be split. (see discussion above about Shelby County)
+
+
+
+
+
+
 
 
 
