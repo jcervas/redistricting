@@ -1,6 +1,6 @@
 ---
-title: "Demonstrative maps for the Tenneseee State House of Representatives Relating to Political Subdivisions Splits"
-runningheader: "Tenneseee State House Political Subdivisions Splits" # only for pdf output
+title: "Demonstrative maps for the Tennessee State House of Representatives Relating to Political Subdivisions Splits"
+runningheader: "Tennessee State House Political Subdivisions Splits" # only for pdf output
 subtitle: "" # only for html output
 author: "Jonathan Cervas"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
@@ -17,7 +17,7 @@ link-citations: yes
 ---
 Failing to split Shelby County creates population pressures throughout the rest of the state. The effect of not splitting Shelby County is to favor non-urban areas.
 
-Counsel has asked me to prepare a report after creating demostrative plans adhering to the following criteria:
+Counsel has asked me to prepare a report after creating demonstrative plans adhering to the following criteria:
 
 1. Shelby County should have exactly 13 or 14 house districts.  No portion of Shelby County should be combined with any adjacent county in creating a district.
 
@@ -107,18 +107,18 @@ plans.tmp <- orange_seed
 |---|---|---|---|
 | *Total* | *2,832,292* | *40.47* | *40* |
 | *90 other counties* | *4,078,548* | *58.43* | *58* |
-_Note: 2020 Census total population. The ideal size of one House district is 69,806. These five counties have a total population of 2,832,292. Taken together, they ideally contain 40.57 seats out of 99 (40.1%) total seats. In the enacted plan, they only have 40 total districts. Tennessee's total state population is 6,910,840._
+_Note: 2020 Census total population. The ideal size of one House district is 69,806. These five counties have a total population of 2,832,292. Taken together, they ideally contain 40.57 seats out of 99 (40.1%) total seats. In the enacted plan, they only have 40 total districts. Tennessee's total state population is 6,910,840.
 
 
 ### Counties with populations sufficient for one or more whole districts
 
-The following provides a summary of which counties contain populations greater than the size of a single House districts:
+The following provides a summary of which counties contain populations greater than the size of a single House district:
 
-1) Two counties have populations sufficent for exactly one district; Greene and Robertson counties. 
+1) Two counties have populations sufficient for exactly one district; Greene and Robertson counties. 
 
 2) Six additional counties have populations that exceed the size of one House district but not quite sizable for two districts, and thus will need to be split once (Bradley, Maury, Madison, Sevier, Putnam, Anderson). 
 
-3) Washington and Blount counties have populations can allow them to contain two complete House districts. 
+3) Washington and Blount counties have populations that can allow them to contain two complete House districts. 
 
 4) Sumner, Sullivan, and Wilson counties all may have two full districts and extend a third into another county. 
 
@@ -139,15 +139,15 @@ The following provides a summary of which counties contain populations greater t
 
 Any county that is large enough to contain a least one district wholly need not be split. That does not imply it *will not* be split, however. But, the total number of splits is necessarily less than the total number of districts (99) by the fact districts have a smaller number of people than that of several whole counties. Of course, some counties will be split in order to achieve population equality. We can calculate the upper bound on the number of counties that need be split[^1].
 
-Let us assume that any county that has a population multiple that is an integer of a district is not split. For Shelby, that is either 13 or 14. Fourty-seven such districts can be draw in Tennessee across 9 counties (Shelby, Davidson, Knox, Hamilton, Rutherford, Blount, Washington, Robertson, Greene). So far, that implies that 47 out of the total 99 districts can be drawn to not cut a single county line (This does not include Montgomery County; if included, that implies 50 out of 99 can be drawn without a single "TN County Split") 
+Let us assume that any county that has a population multiple that is an integer of a district is not split. For Shelby, that is either 13 or 14. Forty-seven such districts can be drawn in Tennessee across 9 counties (Shelby, Davidson, Knox, Hamilton, Rutherford, Blount, Washington, Robertson, Greene). So far, that implies that 47 out of the total 99 districts can be drawn to not cut a single county line (This does not include Montgomery County; if included, that implies 50 out of 99 can be drawn without a single "TN County Split") 
 
 If one were to draw the other 52 districts to exactly equal population, n-1 county splits would be necessary. So, to complete a 99-district plan where the nine counties listed above were drawn with the districts full contained within their boundaries, and each other district contained exactly its share of the remaining population, there would be 51 counties cut. This is the maximum conceivable number. In reality, because map-drawers are granted permission to deviate from the ideal population, significant reductions to this number can be made. 
 
-The minimum number of counties that need be split cannot be found analytically, but computers can be instructed to develop plans that limit the splitting of counties. Later in this report, I will show that tens of thousands of plans made from combining precincts result in fewer "TN County Splits" than the 2022 enacted House plan.
+The minimum number of counties that need to be split cannot be found analytically, but computers can be instructed to develop plans that limit the splitting of counties. Later in this report, I will show that tens of thousands of plans made from combining precincts result in fewer "TN County Splits" than the 2022 enacted House plan.
 
-Measuring plans using these three different notions allow for comparisons any plan equally. *[Table 2](#tab-2)* does this for the 2012-2020 enacted map, the 2022-2030 enacted map, and the House Democratic Concept map. The 2022 enacted map scores the worst across all three measures.
+Measuring plans using these three different notions allows for comparisons of any plan equally. *[Table 2](#tab-2)* does this for the 2012-2020 enacted map, the 2022-2030 enacted map, and the House Democratic Concept map. The 2022 enacted map scores the worst across all three measures.
 
-In the plan that was enacted in 2012 and used in subsequent elections until 2020, 36 total counties are split into more than one district. These 36 counties were split 70 times in total. 28 counties have districts that have their boundary split. In the 2022 enacted House plan, 38 of the 95 counties are divided into at least two districts, for a total of 74 times, and 30 counties have districts that span the border. By comparison, the conceptual map proposed by the House Democrats cuts only 29 of the 95 counties, and does so by dividing counties only 67 times[^2]. Note that 18 counties exceed the district population and therefore *must* be divided. More restrictive population deviation standards would mean a trade-off that would induce an increasing the number of county splits. The overall deviation, and average absolute deviation are shown for each of the plans in *[Table 2](#tab-2)*.
+In the plan that was enacted in 2012 and used in subsequent elections until 2020, 36 total counties are split into more than one district. These 36 counties were split 70 times in total. 28 counties have districts that have their boundary split. In the 2022 enacted House plan, 38 of the 95 counties are divided into at least two districts, for a total of 74 times, and 30 counties have districts that span the border. By comparison, the conceptual map proposed by the House Democrats cuts only 29 of the 95 counties, and does so by dividing counties only 67 times[^2]. Note that 18 counties exceed the district population and therefore *must* be divided. More restrictive population deviation standards would mean a trade-off that would induce an increasing the number of county splits. The overall deviation and average absolute deviation are shown for each of the plans in *[Table 2](#tab-2)*.
 
 For the map enacted to be used after the 2022 elections, 2 additional counties were cut, and a total of 4 more cuts, and two additional counties have districts that span their borders compared to the 2012 enacted map. The Democratic House conceptual map splits 9 fewer counties, and does so 7 fewer times. I have 7 fewer counties where a district spans it border to complete a district. 
 
@@ -182,7 +182,7 @@ An alternative map was proposed by the House Democrats on December 15, 2021. The
 | 2012 Enacted | 36 | 70 | 28 | 9.7% | 3.4% |
 | 2022 Enacted | 38 | 74 | 30 | 9.9% | 3.3% |
 | House Democratic Concept | 29 | 67 | 23 | 9.7% | 2.2% |
-_Note: "Counties Split" is the total number of counties that has at least two districts in it. "County Splits" is the total number of pieces in counties. "TN County Splits" is the number of counties that the county line needed to be crossed to form a complete district with an adjacent county._
+_Note: "Counties Split" is the total number of counties that have at least two districts in it. "County Splits" is the total number of pieces in counties. "TN County Splits" is the number of counties that the county line needed to be crossed to form a complete district with an adjacent county.
 
 
 | PLAN | Counties Split | County Splits | TN County Splits | Overall Deviation | Mean Deviation |
@@ -192,7 +192,7 @@ _Note: "Counties Split" is the total number of counties that has at least two di
 
 ## Seed Plans
 
-Using the perimeters described above, I created two seed plans in Dave's Redistricting App. The plans are generated using only the 90 non-urban counties (excluding Shelby, Davidson, Knox, Hamilton, and Rutherford counties). In the first plan, I drew 59 districts. These plans assume that Shelby County contains 13 districts. They will be given the code word "Apple" as I refer to them throughout this report. In the second plan, I drew 58 districts. In this plan, Shelby County has 14 districts. Plans of this nature will be referred to as "Orange". These plans both adhere to what I call the "n-1" rule, meaning no county is split unless necessary for population deviation. I used no racial information, nor did I use any partisan information. Though no effort like this can guarentee compliance with the Voting Rights Act, the court record indicates that 9 VRA compliant districts are found in Shelby County, 2 in Davidson County, and 1 in Hamilton County, which are perserved. One addtional VRA district spans Hardeman, Madison, and Haywood counties; For this district, I ensure that it contains a Black voting age population of at least 52%, which can be achieved without splitting either Hardeman or Haywood counties (which have a combined population of 43,326).
+Using the perimeters described above, I created two seed plans in Dave's Redistricting App. The plans are generated using only the 90 non-urban counties (excluding Shelby, Davidson, Knox, Hamilton, and Rutherford counties). In the first plan, I drew 59 districts. These plans assume that Shelby County contains 13 districts. They will be given the code word "Apple" as I refer to them throughout this report. In the second plan, I drew 58 districts. In this plan, Shelby County has 14 districts. Plans of this nature will be referred to as "Orange". These plans both adhere to what I call the "n-1" rule, meaning no county is split unless necessary for population deviation. I used no racial information, nor did I use any partisan information. Though no effort like this can guarantee compliance with the Voting Rights Act, the court record indicates that 9 VRA compliant districts are found in Shelby County, 2 in Davidson County, and 1 in Hamilton County, which is preserved. One additional VRA district spans Hardeman, Madison, and Haywood counties; For this district, I ensure that it contains a Black voting age population of at least 52%, which can be achieved without splitting either Hardeman or Haywood counties (which have a combined population of 43,326).
 
 
 
@@ -265,13 +265,7 @@ _Note: Each simulated plan has 5 Counties split added, along with 36 County Spli
 
 [^1]: Sealing in a county could have a negative effect on the number of split counties. For instance, imagine a county is sealed in but in doing so a total of 20,000 extra people are placed in districts in that county. If an adjacent county has a population that is the ideal minus 20,000, it will now have to split an adjacent county to get the population it could have otherwise had from the first county. Like the butterfly effect, it could ripple through the plan. Additionally, if sealing in a county prohibits a more efficient split for another county, it could have the effect of increasing the total county splits in a plan. Moreover, as with Unicoi, the effect of sealing Washington County is that is _guaranteed_ that Carter County is split, even though its population is small enough to not be split.
 
-[^2]: Plan comparison documents found on the General Assembly website (https://www.capitol.tn.gov/Archives/House/112GA/redistricting/Documents/additional%20december%20evaluations.pdf) list county splits as 30 for the 2022 enacted plan, and 23 for the House Democratic concept map. I do not know how these measures are calculated, nor are they reported in either Maptitude for Redistricting (which I have a license) or Dave's Redistricting App. One potential explanation of this measure of splitting is the number of districts that crosses into multiple counties. This is a non-standard way of defining county splits and if applied as a legal standard might lead to a situation where larger counties are needlessly penalized since there is more discretion as to whether it needs to be split. (see discussion above about Shelby County)
-
-
-
-
-
-
+[^2]: Plan comparison documents found on the General Assembly website (https://www.capitol.tn.gov/Archives/House/112GA/redistricting/Documents/additional%20december%20evaluations.pdf) list county splits as 30 for the 2022 enacted plan, and 23 for the House Democratic concept map. I do not know how these measures are calculated, nor are they reported in either Maptitude for Redistricting (to which I have a license) or Dave's Redistricting App. One potential explanation for this measure of splitting is the number of districts that cross into multiple counties. This is a non-standard way of defining county splits and if applied as a legal standard might lead to a situation where larger counties are needlessly penalized since there is more discretion as to whether it needs to be split. (see discussion above about Shelby County)
 
 
 
