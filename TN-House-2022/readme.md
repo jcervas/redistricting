@@ -321,15 +321,15 @@ _Note: This plan can be viewed on Dave's Redistricting app:_ https://davesredist
 
 
 	#Orange Plans
-plans <- c(
-	"TN_Apple_Test_0_9384",
-	"TN_Apple_Test_5_8716",
-	"TN_Apple_Test_3_288",
-	"TN_Apple_Test_4_32",
-	"TN_Apple_Test_2_48")
+apple.plans <- c(
+	"TN_Apple_0_9384",
+	"TN_Apple_5_8716",
+	"TN_Apple_3_288",
+	"TN_Apple_4_32",
+	"TN_Apple_2_48")
 	
-	for (i in 1:length(plans)) {
-	plans.tmp <-read.csv(paste0("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Apple Ensemble/TN Apple 1/", plans[i], ".csv"), colClasses=c("character"))
+	for (i in 1:length(apple.plans)) {
+	plans.tmp <-read.csv(paste0("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Apple/", apple.plans[i], "-PAF.csv"), colClasses=c("character"))
 
 		colnames(plans.tmp)[1] <- "GEOID"
 		length(unique(plans.tmp$District))
@@ -340,9 +340,9 @@ plans <- c(
 		plan.districts <- rbind.data.frame(plan.districts.tmp, urban.counties.districts[,1:2])
 		plan.dev <- (plan.districts[,2]-ideal.house)/ideal.house
 			mean(abs(plan.dev))
-png(paste0("/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/", plans[i], ".png"), 
-	height = 2000, width = 6000, 
-	units = "px", pointsize = 24)
+png(paste0("/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/", apple.plans[i], ".png"), 
+	height = 1000, width = 2000, 
+	units = "px", pointsize = 12)
 	sp::plot(TN_geo.counties.tmp, col="#c41230", density=10, lwd=5)
 	sp::plot(TN_enacted_urban, col=TN_enacted_urban@data$color, border = TN_enacted_urban@data$color, lty=1, lwd = 0.5, add=T)
 	sp::plot(vtd.tmp, col = vtd.tmp@data$color, border = vtd.tmp@data$color, lty=1, lwd = 0.5, add=T)
@@ -357,15 +357,15 @@ dev.off()
 
 
 	#Orange Plans
-plans <- c(
-	"TN_Orange_Test_1_9383",
-	"TN_Orange_Test_0_9242",
-	"TN_Orange_Test_2_9501",
-	"TN_Orange_Test_4_8580",
-	"TN_Orange_Test_3_9865")
+orange.plans <- c(
+	"TN_Orange_1_9383",
+	"TN_Orange_0_9242",
+	"TN_Orange_2_9501",
+	"TN_Orange_4_8580",
+	"TN_Orange_3_9865")
 	
-	for (i in 1:length(plans)) {
-	plans.tmp <-read.csv(paste0("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Orange Ensemble/TN Orange 1/", plans[i], ".csv"), colClasses=c("character"))
+	for (i in 1:length(orange.plans)) {
+	plans.tmp <-read.csv(paste0("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Orange Ensemble/TN Orange 1/", orange.plans[i], "-PAF.csv"), colClasses=c("character"))
 
 		colnames(plans.tmp)[1] <- "GEOID"
 		length(unique(plans.tmp$District))
@@ -376,7 +376,7 @@ plans <- c(
 		plan.districts <- rbind.data.frame(plan.districts.tmp, urban.counties.districts[,1:2])
 		plan.dev <- (plan.districts[,2]-ideal.house)/ideal.house
 			mean(abs(plan.dev))
-png(paste0("/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/", plans[i], ".png"), 
+png(paste0("/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/", orange.plans[i], ".png"), 
 	height = 2000, width = 6000, 
 	units = "px", pointsize = 24)
 	sp::plot(TN_geo.counties.tmp, col="#c41230", density=10, lwd=5)
@@ -425,29 +425,29 @@ For each of the "Apple" plans and the "Orange" plans, I generate 60,000 plans vi
 
 
 
-### TN_Apple_Test_1_9383 {#fig-0_9384}
+### TN_Apple_1_9383 {#fig-0_9384}
 
-![](Maps/Apple/TN_Apple_Test_0_9384.png)
+![](Maps/Apple/TN_Apple_0_9384.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/6f9a71b4-efd5-4a9e-909c-23f953ed4915"
 
-### TN_Apple_Test_5_8716 {#fig-5_8716}
+### TN_Apple_5_8716 {#fig-5_8716}
 
-![](Maps/Apple/TN_Apple_Test_5_8716.png)
+![](Maps/Apple/TN_Apple_5_8716.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/e0cfac06-160f-4054-adea-997292b7bdde"
 
-### TN_Apple_Test_3_0288 {#fig-3_0288}
+### TN_Apple_3_0288 {#fig-3_0288}
 
-![](Maps/Apple/TN_Apple_Test_3_288.png)
+![](Maps/Apple/TN_Apple_3_288.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/dbc7dc34-293f-46a1-884e-c591e6f4b0f5"
 
-### TN_Apple_Test_4_0032 {#fig-4_0032}
+### TN_Apple_4_0032 {#fig-4_0032}
 
-![](Maps/Apple/TN_Apple_Test_4_32.png)
+![](Maps/Apple/TN_Apple_4_32.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/933667cc-6cc7-42a4-80d6-89cd8ef9fead"
 
-### TN_Apple_Test_2_0048 {#fig-2_0048}
+### TN_Apple_2_0048 {#fig-2_0048}
 
-![](Maps/Apple/TN_Apple_Test_2_48.png)
+![](Maps/Apple/TN_Apple_2_48.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/9188cb2e-9ccc-4fbd-891f-66363b071ad7"
 
 
@@ -475,29 +475,29 @@ _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredis
 _Note: Each simulated plan has 5 Counties split added since there are five urban counties not simulated. For "Apple" plans, 36 County Splits are added, and for "Orange" plans, 37 County Splits are added. TN County Splits are the same. Overall and Mean deviations are reported for the simulated districts only._
 
 
-### TN_Orange_Test_1_9383 {#fig-1_9383}
+### TN_Orange_1_9383 {#fig-1_9383}
 
-![](Maps/Orange/TN_Orange_Test_1_9383.png)
+![](Maps/Orange/TN_Orange_1_9383.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/293c861c-7d95-45bb-a286-e6f273c84a80"
 
-### TN_Orange_Test_0_9242 {#fig-0_9242}
+### TN_Orange_0_9242 {#fig-0_9242}
 
-![](Maps/Orange/TN_Orange_Test_0_9242.png)
+![](Maps/Orange/TN_Orange_0_9242.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/98020603-aaf6-462a-abcb-20bb5256c13b"
 
-### TN_Orange_Test_2_9501 {#fig-2_9501}
+### TN_Orange_2_9501 {#fig-2_9501}
 
-![](Maps/Orange/TN_Orange_Test_2_9501.png)
+![](Maps/Orange/TN_Orange_2_9501.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/5bed1874-8eae-4a80-83ac-3a74a9b70e99"
 
-### TN_Orange_Test_4_8580 {#fig-4_8580}
+### TN_Orange_4_8580 {#fig-4_8580}
 
-![](Maps/Orange/TN_Orange_Test_4_8580.png)
+![](Maps/Orange/TN_Orange_4_8580.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/27015482-1a29-47ff-be98-53513879bbfa"
 
-### TN_Orange_Test_3_9865 {#fig-3_9865}
+### TN_Orange_3_9865 {#fig-3_9865}
 
-![](Maps/Orange/TN_Orange_Test_3_9865.png)
+![](Maps/Orange/TN_Orange_3_9865.png)
 _Note: This plan can be viewed on Dave's Redistricting app:_ "https://davesredistricting.org/join/c6443d06-693e-4f0f-a0a3-889e33291f33"
 
 ## Conclusion
