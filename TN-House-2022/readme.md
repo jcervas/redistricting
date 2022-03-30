@@ -365,7 +365,7 @@ orange.plans <- c(
 	"TN_Orange_3_9865")
 	
 	for (i in 1:length(orange.plans)) {
-	plans.tmp <-read.csv(paste0("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Orange Ensemble/TN Orange 1/", orange.plans[i], "-PAF.csv"), colClasses=c("character"))
+	plans.tmp <-read.csv(paste0("/Users/user/Google Drive/Projects/Redistricting/2022/TN/Plans/Orange/", orange.plans[i], "-PAF.csv"), colClasses=c("character"))
 
 		colnames(plans.tmp)[1] <- "GEOID"
 		length(unique(plans.tmp$District))
@@ -377,8 +377,8 @@ orange.plans <- c(
 		plan.dev <- (plan.districts[,2]-ideal.house)/ideal.house
 			mean(abs(plan.dev))
 png(paste0("/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Downloads/", orange.plans[i], ".png"), 
-	height = 2000, width = 6000, 
-	units = "px", pointsize = 24)
+	height = 1000, width = 3000, 
+	units = "px", pointsize = 12)
 	sp::plot(TN_geo.counties.tmp, col="#c41230", density=10, lwd=5)
 	sp::plot(TN_enacted_urban, col=TN_enacted_urban@data$color, border = TN_enacted_urban@data$color, lty=1, lwd = 0.5, add=T)
 	sp::plot(vtd.tmp, col = vtd.tmp@data$color, border = vtd.tmp@data$color, lty=1, lwd = 0.5, add=T)
