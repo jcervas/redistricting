@@ -511,11 +511,3 @@ For this report, I was asked not to split Shelby County's border. However, I bel
 [^2]: Sealing a county's border (or "embedding" districts) to avoid a split could have a negative effect on the total number of split counties. For instance, imagine a county is sealed in but in doing so a total of 20,000 extra people are placed in districts in that county. If an adjacent county has a population that is the ideal minus 20,000, it will now have to split an adjacent county to get the population it could have otherwise had from the first county. Like the butterfly effect, it could ripple through the plan. Additionally, if sealing in a county prohibits a more efficient split for another county, it could have the effect of increasing the total county splits in a plan. Moreover, as with Unicoi, the effect of sealing Washington County is that it is _guaranteed_ that Carter County is split, even though its population is small enough to not be split.
 
 [^3]: Plan comparison documents found on the General Assembly website (https://www.capitol.tn.gov/Archives/House/112GA/redistricting/Documents/additional%20december%20evaluations.pdf) list county splits as 30 for the 2022 enacted plan, and 23 for the House Democratic concept map. The split count used by the General Assembly is not reported in either Maptitude for Redistricting (to which I have a license) or Dave's Redistricting App. This is a non-standard way of defining county splits and if applied as a legal standard might lead to a situation where larger counties are needlessly penalized since there is more discretion as to whether it needs to be split (see discussion above about Shelby County).
-
-
-
-
-
-
-
-
