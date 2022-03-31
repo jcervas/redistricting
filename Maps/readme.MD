@@ -1,1 +1,0 @@
-Map and Image directory
